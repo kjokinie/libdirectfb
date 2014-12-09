@@ -1,0 +1,3 @@
+[submodule "directfb"]
+	path = libdirectfb
+	url = git://git.directfb.org/git/directfb/core/DirectFB.git
